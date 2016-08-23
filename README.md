@@ -3,7 +3,7 @@
 
 
 ## Description
-Print out the contents of 1 array and then prnt out the contents of a second array to a different li element.
+Print out the contents of 1 array and then printed out the contents of a second array to a different li element.
 
 ## How to run
 In your terminal run:
