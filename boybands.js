@@ -20,11 +20,9 @@ var veggieElement = document.getElementById("vegetables");
 for (var loopTracker = 0; loopTracker < loopCount; loopTracker += 1) {
 
   // Add the band names into the correct <div>
-  // currentBand = ???;
   bandElement.innerHTML += "<li>" + bands[loopTracker] + "</li>";
 
   // Add the veggie names into the correct <div>
-  // currentVeggie = ???;
   veggieElement.innerHTML += "<li>" + vegetables[loopTracker] + "</li>";
 
 }
@@ -33,5 +31,3 @@ for (var loopTracker = 0; loopTracker < loopCount; loopTracker += 1) {
 
 
 
-// Example
-// hohohoElement.innerHTML +=  "<h3>" + colors[i] + " " + reindeer[i] + "</h3>";
